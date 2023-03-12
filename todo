@@ -1,0 +1,20 @@
+
+- Dodanie setup.exe do instalacji obu plikacji
+
+Agent:
+- Dodawanie reguły przychodzącej na port 8888 podczas instalacji
+- Włączanie widoczności w sieci podczas instalacji
+- Atuomatyczne dodawanie do autostartu
+- Działanie nawet z wylogowanym użytkownikiem (zdalne zamykanie komputera na koniec zajec)
+
+Admin:
+-  GUI z wszystkimi dostępnymi komputerami w sieci z adresami IP - zmiana adresów na statyczne i przypisanie im numerów inwentarzowych
+- zakładka do otwierania linków i aplikacji w GUI zaznaczajac wybrane stacje checkboxami / otworz na wszystkich
+- baza danych z credentialami użytkowników do aplikacji
+- monitoring wolnej przestrzeni dyskowej
+- zdalne uruchomienie procesu oczyszczania komputera (czyszczenie tempow, folderu pobrane, kosza, uruchomienie sfc i dism)
+- reset tapety / kursora, zablokowanie i odblokowanie tych zmian w gpedicie z poziomu admina
+- wyłączanie lub włączanie sterownika dźwięku zdalnie
+- monitoring baterii komputerow
+- aktualnie uruchomione aplikacje na komputerze, zdalne zakańczanie procesu
+- kopiowanie plików do folderu pobrane na zdalnych komputerach (plik w udostępnionym folderze)
